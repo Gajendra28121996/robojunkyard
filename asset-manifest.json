@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robojunkyard/static/css/main.ac870e13.chunk.css",
+    "main.js": "/robojunkyard/static/js/main.e4935095.chunk.js",
+    "main.js.map": "/robojunkyard/static/js/main.e4935095.chunk.js.map",
+    "runtime~main.js": "/robojunkyard/static/js/runtime~main.7e184920.js",
+    "runtime~main.js.map": "/robojunkyard/static/js/runtime~main.7e184920.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robojunkyard/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.0cc91280.chunk.js": "/robojunkyard/static/js/2.0cc91280.chunk.js",
+    "static/js/2.0cc91280.chunk.js.map": "/robojunkyard/static/js/2.0cc91280.chunk.js.map",
+    "index.html": "/robojunkyard/index.html",
+    "precache-manifest.fa0c8fe2dd93d73480b562eafe776afc.js": "/robojunkyard/precache-manifest.fa0c8fe2dd93d73480b562eafe776afc.js",
+    "service-worker.js": "/robojunkyard/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robojunkyard/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.ac870e13.chunk.css.map": "/robojunkyard/static/css/main.ac870e13.chunk.css.map",
+    "static/media/App.css": "/robojunkyard/static/media/DigitaldreamFat.71cc69d7.woff"
+  }
+}
